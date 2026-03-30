@@ -3,3 +3,4 @@ doc/
 clean_arduino_cache.sh
 old-git.zip
 animaMIC.code-workspace
+github token.txt
