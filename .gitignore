@@ -1,0 +1,5 @@
+doc/
+.cursor/
+clean_arduino_cache.sh
+old-git.zip
+animaMIC.code-workspace
